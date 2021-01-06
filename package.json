@@ -24,7 +24,7 @@
     "@babel/node": "^7.10.1",
     "@babel/preset-env": "^7.10.2",
     "antd": "^4.3.4",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-preset-minify": "^0.5.1",
     "bcrypt": "^5.0.0",
     "connect-mongo": "^3.2.0",
